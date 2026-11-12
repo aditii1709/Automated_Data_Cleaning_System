@@ -1,0 +1,10 @@
+Metric,Value
+Total_Records_Before,510.0
+Total_Records_After,500.0
+Duplicate_Records_Removed,10.0
+Missing_Values_Before,54.0
+Missing_Values_After,0.0
+Average_Salary,70645.63
+Median_Salary,69708.0
+Average_Age,41.03
+Average_Experience,16.73

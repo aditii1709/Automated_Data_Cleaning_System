@@ -1,0 +1,11 @@
+Column,Data_Type,Missing_Values,Missing_Percentage,Unique_Values
+Employee_ID,object,0,0.0,500
+EmployeeName,object,0,0.0,500
+Age,float64,0,0.0,39
+Gender,object,0,0.0,2
+Department,object,0,0.0,5
+Salary,float64,0,0.0,482
+Experience_Years,float64,0,0.0,35
+Job_Satisfaction,float64,0,0.0,5
+Employment_Status,object,0,0.0,3
+Joining_Date,datetime64[ns],0,0.0,495
